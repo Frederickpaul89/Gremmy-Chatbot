@@ -10,7 +10,7 @@ Gremmy is a lightweight chatbot powered by Large Language Models (LLMs) that all
 
 🚀 **Live Demo (Powered by Google Gemma LLM)**  
 You can chat with Gremmy online via Hugging Face Spaces:  
-🔗 [https://huggingface.co/spaces/Enoch1359/LLm_file](https://huggingface.co/spaces/Enoch1359/LLm_file)
+🔗 [https://enoch1359-llm-file.hf.space/](https://enoch1359-llm-file.hf.space/)
 
 ---
 
